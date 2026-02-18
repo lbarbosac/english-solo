@@ -16,7 +16,7 @@ Desenvolver experiência de aprendizado mais acessível
 
 O sistema possui dois modos principais:
 
-🗣 Frases
+🗣 Frases:
 Exercícios com frases individuais
 150 tarefas disponíveis,
 cada tarefa possui 10 frases
@@ -24,8 +24,8 @@ cada tarefa possui 10 frases
 💬 Diálogos
 Frases voltadas para situações do cotidiano,
 simulação de interações do dia a dia
-150 tarefas disponíveis com 10 exercícios cada
-O usuário deve reproduzir as frases utilizando o microfone e atingir mínimo de 75% de precisão. Caso não atinja, pode repetir o exercício até acertar.
+150 tarefas disponíveis com 10 exercícios cada,
+o usuário deve reproduzir as frases utilizando o microfone e atingir mínimo de 75% de precisão. Caso não atinja, pode repetir o exercício até acertar.
 
 ✨ Funcionalidades
 
