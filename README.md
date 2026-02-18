@@ -6,10 +6,10 @@ A plataforma utiliza reconhecimento de voz pelo microfone e feedback automático
 
 🎯 Objetivo
 
-Auxiliar no aprendizado de inglês de forma prática
-Incentivar prática diária da língua
-Exercitar leitura, escuta e pronúncia
-Aplicar conceitos de aplicações interativas com React
+Auxiliar no aprendizado de inglês de forma prática,
+Incentivar prática diária da língua,
+Exercitar leitura, escuta e pronúncia,
+Aplicar conceitos de aplicações interativas com React e
 Desenvolver experiência de aprendizado mais acessível
 
 🚀 Como funciona
@@ -18,25 +18,25 @@ O sistema possui dois modos principais:
 
 🗣 Frases
 Exercícios com frases individuais
-150 tarefas disponíveis
-Cada tarefa possui 10 frases
+150 tarefas disponíveis,
+cada tarefa possui 10 frases
 
 💬 Diálogos
-Frases voltadas para situações do cotidiano
-Simulação de interações do dia a dia
+Frases voltadas para situações do cotidiano,
+simulação de interações do dia a dia
 150 tarefas disponíveis com 10 exercícios cada
 O usuário deve reproduzir as frases utilizando o microfone e atingir mínimo de 75% de precisão. Caso não atinja, pode repetir o exercício até acertar.
 
 ✨ Funcionalidades
 
-Reconhecimento de voz via microfone
-Reprodução de áudio das frases para treino de escuta
-Sistema de pontuação
-Níveis de progresso
-Feedback de desempenho
-Registro de dias consecutivos de uso
-Salvamento automático de progresso e pontuação com Local Storage
-Interface simples e intuitiva
+Reconhecimento de voz via microfone,
+reprodução de áudio das frases para treino de escuta,
+sistema de pontuação,
+níveis de progresso,
+feedback de desempenho,
+registro de dias consecutivos de uso,
+salvamento automático de progresso e pontuação com Local Storage e
+interface simples e intuitiva
 
 🎓 Motivação
 
